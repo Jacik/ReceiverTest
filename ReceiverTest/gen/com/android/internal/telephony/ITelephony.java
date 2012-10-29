@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: F:\\LASKA\\NAUKA\\MyProjects\\kurs_android_2\\android\\ReceiverTest\\src\\com\\android\\internal\\telephony\\ITelephony.aidl
+ * Original file: C:\\Users\\Laska\\git\\ReceiverTest\\ReceiverTest\\src\\com\\android\\internal\\telephony\\ITelephony.aidl
  */
 package com.android.internal.telephony;
 /**
